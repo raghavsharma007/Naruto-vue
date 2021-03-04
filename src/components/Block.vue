@@ -1,5 +1,5 @@
 <template>
-    <div v-if="showBlock" @click="stopTimer" class="w-1/3 h-1/3 bg-red-500 uppercase rounded-full m-auto text-center text-white text-3xl font-bold">
+    <div v-if="showBlock" @click="stopTimer" class="w-1/3 h-1/3 bg-red-500 uppercase rounded-full m-auto text-white text-3xl font-bold flex items-center justify-center border-4 border-red-800">
         Click Me
     </div>
 </template>
