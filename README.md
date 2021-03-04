@@ -1,4 +1,5 @@
 # naruto-vue
+Simple Vue application to record reaction time on screen
 
 ## Project setup
 ```
